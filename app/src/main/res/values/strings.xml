@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nature Explorer</string>
+    <string name="title_text">Welcome to Nature Explorer 🌿</string>
+    <string name="description_text">
+        Nature is the most beautiful gallery in the world and it is always open.
+        \n\n
+        Use this app to explore breathtaking landscapes, save your favourite spots,
+        and build a personal gallery of the world\'s wonders. Your adventure starts here.
+    </string>
+    <string name="nature_image_desc">A beautiful nature scene</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
